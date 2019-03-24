@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "755298663198",
+    "firebase_url": "https://bluetooth-83da1.firebaseio.com",
+    "project_id": "bluetooth-83da1",
+    "storage_bucket": "bluetooth-83da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755298663198:android:0d2747fa0ed93efe",
+        "android_client_info": {
+          "package_name": "app.mego.bluetoothsend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755298663198-4bt0qo2pmtg6215n0svqq0gjnanh75ih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mego.bluetoothsend",
+            "certificate_hash": "6d502944b0629ad17111914807e833bfd98191cc"
+          }
+        },
+        {
+          "client_id": "755298663198-s0n6d60qmo7an7fihjjhdab36bs5gvfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCetd8LE7nyfmqE47vsuKIngd-IzqSnAys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755298663198-s0n6d60qmo7an7fihjjhdab36bs5gvfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="none"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="ACL 001"
+        android:textSize="20sp"
+        android:id="@+id/id"
+        android:background="@drawable/rectangle1"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Ayodeji Onamuti"
+        android:background="@drawable/rectangle1"
+        android:textSize="20sp"
+        android:id="@+id/name"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="ayodejionamuti@gmail.com"
+        android:textSize="20sp"
+        android:id="@+id/email"
+        android:background="@drawable/rectangle1"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+
+
+    </LinearLayout>
+</LinearLayout>
